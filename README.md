@@ -7,6 +7,8 @@ Currently looking to find and collaborate on the next big challenge.
 
 ### Languages
 <img src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" width="50" />
+<img src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" width="50" />
+
 
 <!--
 **kiw1meister/kiw1meister** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
