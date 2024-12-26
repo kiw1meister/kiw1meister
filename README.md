@@ -6,7 +6,7 @@ Currently looking to find and collaborate on the next big challenge.
 ## Tech Stack
 
 ### Languages
-![JavaScript](https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png)
+![JavaScript](https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png =x50)
 
 <!--
 **kiw1meister/kiw1meister** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
